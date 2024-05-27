@@ -27,10 +27,6 @@
                     {
                         Console.Write($"{count+1} .cehdiniz ");
                     }
-                    else if(count<maxCount)
-                    {
-                        Console.WriteLine($"{count+1} .cehdiniz ");
-                    }
                     else
                     {
                         Console.WriteLine("Kartiniz bloklandi");
